@@ -1,0 +1,15 @@
+names:
+- W
+- WH
+- WHV
+- WV
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: ppe-6eslk
+  url: https://universe.roboflow.com/maral-korpeeva-yvagi/ppe-6eslk/dataset/10
+  version: 10
+  workspace: maral-korpeeva-yvagi
+test: ../test/images
+train: PPE-10/train/images
+val: PPE-10/valid/images
